@@ -1,0 +1,8 @@
+/Mojolicious-Plugin-Host-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+.vstags
