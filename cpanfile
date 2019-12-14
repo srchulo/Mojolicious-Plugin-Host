@@ -2,7 +2,7 @@ requires 'perl', '5.010001';
 
 requires 'Mojolicious';
 
-on develop => {
+on develop => sub {
     requires 'Test::Pod';
 };
 
