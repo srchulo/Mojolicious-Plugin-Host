@@ -78,6 +78,8 @@ Mojolicious::Plugin::Host - Easily get the host for the current request
 
 =head1 STATUS
 
+=for html <a href="https://travis-ci.org/srchulo/Mojolicious-Plugin-Host"><img src="https://travis-ci.org/srchulo/Mojolicious-Plugin-Host.svg?branch=master"></a> <a href='https://coveralls.io/github/srchulo/Mojolicious-Plugin-Host?branch=master'><img src='https://coveralls.io/repos/github/srchulo/Mojolicious-Plugin-Host/badge.svg?branch=master' alt='Coverage Status' /></a>
+
 =head1 SYNOPSIS
 
   # Mojolicious::Lite
